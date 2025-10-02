@@ -2,7 +2,7 @@
 <h3 align="center">An AI Researcher passionate about LLM, AI Agent and Generative AI</h3>
 
 - 📫 How to reach me **wangxutao98@qq.com**
-- 📄 Know about my experiences [**Resume**](https://github.com/WANGXutao98/WANGXutao98/blob/main/Resume.pdf) *(Note: You can upload a PDF of your resume to this repo and link it here)*
+- 📄 Know about my experiences [**Resume**](https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/CV_WANG_Xutao.pdf) 
 - ⚡ Fun fact **Piano (Amateur Grade 10) 🎹, Photography 📸, and playing Electric Guitar 🎸**
 
 
