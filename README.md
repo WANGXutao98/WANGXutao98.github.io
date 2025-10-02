@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Xutao Wang</h1>
-<h3 align="center">An AI Algorithm Engineer passionate about LLM, AI Agent and Fundamental Technology Innovation</h3>
+<h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
+<h3 align="center">An AI Researcher passionate about LLM, AI Agent and Generative AI</h3>
 
 - 📫 How to reach me **wangxutao98@qq.com**
 - 📄 Know about my experiences [**Resume**](https://github.com/WANGXutao98/WANGXutao98/blob/main/Resume.pdf) *(Note: You can upload a PDF of your resume to this repo and link it here)*
 - ⚡ Fun fact **Piano (Amateur Grade 10) 🎹, Photography 📸, and playing Electric Guitar 🎸**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/your_twitter" target="blank"></a>
-<a href="https://linkedin.com/in/your_linkedin" target="blank"></a>
-</p>
 
 ---
 
@@ -18,9 +13,9 @@
 | Category           | Technologies                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Programming**    | `Python`, `Golang`, `C++`                                                                                                                                                                                                                                                                                                                                                |
-| **LLM & ML**       | `PyTorch`, `Transformers`, `vLLM`, `TensorRT-LLM`, `ONNX`, `RAG`, `AI Agent`                                                                                                                                                                                                                                                                                              |
+| **LLM & ML**       | `PyTorch`, `vLLM`, `TensorRT-LLM`, `ONNX`, `RAG`, `AI Agent`                                                                                                                                                                                                                                                                                              |
 | **Data & Ops**     | `MySQL`, `MongoDB`, `Hadoop`, `Docker`, `Linux`                                                                                                                                                                                                                                                                                                                          |
-| **Cloud & Tools**  | `Azure`, `Sketch`, `FastAPI`, `Flask`, `trpc-Go`                                                                                                                                                                                                                                                                                                                         |
+| **Other Tools**  | `Azure`, `Sketch`                                                                                                                                                                                                                                                                                                                       |
 
 ---
 
@@ -53,7 +48,7 @@
 ### 📝 Publications
 
 - **Named Entity Recognition Using BERT BiLSTM CRF for Chinese Electronic Health Records**  
-  *IEEE CISP-BMEI Congress, Nov 2019*
+  *IEEE CISP-BMEI Congress, Nov 2019* cited by 239
 
 - **Inter-Personal Relation Extraction Model Based on Bidirectional GRU and Attention Mechanism**  
   *IEEE ICCC, Sep 2019*
@@ -74,17 +69,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-*(This section will dynamically show your GitHub activity. Just copy the code below.)*
-
-<p align="center">
-  <a href="https://github.com/WANGXutao98">
-    
-    
-  </a>
-</p>
-
-<p align="center">
-  
-</p>
