@@ -1,5 +1,5 @@
 <div style="text-align: right; margin-bottom: 10px;">
-  <img src="https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/Profile2.jpg?raw=true" width="150">
+  <img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/refs/heads/main/Profile2.jpg" width="150">
 </div>
 
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
@@ -49,10 +49,42 @@
 
 ---
 
+### 📌 Some of my open-sourced Projects
+
+#### 1. [vLLM_inference_service_matrix](https://github.com/WANGXutao98/vLLM_inference_service_matrix)
+A high-performance inference service matrix based on vLLM, supporting multi-protocol compatibility and flexible expansion.
+
+- **Core Features**:
+  - Compatible with OpenAI Chat/Completion API and custom protocols
+  - Built-in comprehensive monitoring metrics (request volume, response time, Token statistics)
+  - Supports containerized deployment and performance optimization configuration
+  - Plug-in architecture design for easy extension of custom processors
+  - Optimized response caching and asynchronous operations
+
+#### 2. [Agent4game_rpcGo](https://github.com/WANGXutao98/Agent4game_rpcGo)
+Game-oriented RPC proxy service built with Go, focusing on low latency and high reliability.
+
+- **Core Features**:
+  - Lightweight RPC communication framework adapted to real-time game interaction scenarios
+  - Supports service registration/discovery and dynamic load balancing
+  - Built-in heartbeat detection and disconnection reconnection mechanisms
+  - Extensible message encoding/decoding interface
+
+#### 3. [FastAPI_backend_matrix](https://github.com/WANGXutao98/FastAPI_backend_matrix)
+FastAPI-based backend service matrix providing standardized interfaces and middleware support.
+
+- **Core Features**:
+  - High-performance asynchronous interface design with automatic Swagger documentation
+  - Modular routing and dependency injection for easy maintenance
+  - Integrated authentication, logging, and monitoring middleware
+  - Supports multi-environment configuration and containerized deployment
+
+---
+
 ### 📝 Publications
 
 - **Named Entity Recognition Using BERT BiLSTM CRF for Chinese Electronic Health Records**  
-  *IEEE CISP-BMEI Congress, Nov 2019* cited by 239
+  *IEEE CISP-BMEI Congress, Nov 2019*   cited by 239
 
 - **Inter-Personal Relation Extraction Model Based on Bidirectional GRU and Attention Mechanism**  
   *IEEE ICCC, Sep 2019*
