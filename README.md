@@ -1,5 +1,5 @@
 <div style="text-align: right; margin-bottom: 10px;">
-  <img src="https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/profile.jpg" width="150">
+  <img src="https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/Profile2.jpg" width="150">
 </div>
 
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
