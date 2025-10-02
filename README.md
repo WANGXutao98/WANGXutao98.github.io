@@ -4,16 +4,16 @@
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
 <h3 align="center">An AI Researcher passionate about LLM, AI Agent and Generative AI</h3>
 
-- 📫 How to reach me **wangxutao98@qq.com**
-- 📄 Know about my experiences [**Resume**](https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/CV_WANG_Xutao.pdf) 
-- ⚡ Fun fact **Piano (Amateur Grade 10) 🎹, Photography 📸, and playing Electric Guitar 🎸**
+- 📫 How to reach me -  **wangxutao98@qq.com**
+- 📄 Know about my experiences -  [**Resume**](https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/CV_WANG_Xutao.pdf) 
+- ⚡ Fun fact - **Piano (Amateur Grade 10) 🎹, Photography 📸, and playing Electric Guitar 🎸**
 
 
 ---
 
-### 🧠 Core Skills & Technologies
+### 🧠 Core Skills
 
-| Category           | Technologies                                                                                                                                                                                                                                                                                                                                                             |
+| Category           | Skills                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Programming**    | `Python`, `Golang`, `C++`                                                                                                                                                                                                                                                                                                                                                |
 | **LLM & ML**       | `PyTorch`, `vLLM`, `TensorRT-LLM`, `ONNX`, `RAG`, `AI Agent`                                                                                                                                                                                                                                                                                              |
