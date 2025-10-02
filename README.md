@@ -1,7 +1,8 @@
+<div style="text-align: right; margin-bottom: 10px;">
+  <img src="https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/profile.jpg" width="150">
+</div>
+
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
-<p align="center">
-  <img src="https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/profile.jpg" alt="David Wang Xutao" width="200">
-</p>
 <h3 align="center">An AI Researcher passionate about LLM, AI Agent and Generative AI</h3>
 
 - 📫 How to reach me **wangxutao98@qq.com**
