@@ -1,9 +1,37 @@
 <!-- 右上角照片 -->
-<div style="position:fixed; top:20px; right:60px; z-index:999;">
+<div id="corner-photo">
   <img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/main/avatar.jpg"
-       alt="photo" style="max-width:180px; height:auto; box-shadow:0 2px 6px rgba(0,0,0,.15);">
+       alt="photo">
 </div>
 
+<style>
+/* 电脑端：固定右上角 */
+#corner-photo {
+  position: fixed;
+  top: 20px;
+  right: 120px;
+  z-index: 999;
+}
+#corner-photo img {
+  max-width: 180px;
+  height: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,.15);
+}
+
+/* 手机端：取消固定，自动居中并缩小 */
+@media (max-width: 600px) {
+  #corner-photo {
+    position: relative;   /* 回到文档流 */
+    top: auto;
+    right: auto;
+    text-align: right;   /* 右 */
+    margin: 0 auto 20px;  /* 与下方内容留点间距 */
+  }
+  #corner-photo img {
+    max-width: 120px;     /* 再小一点 */
+  }
+}
+</style>
 
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
 <h3 align="center">An AI Researcher passionate about AI Agent，Generative AI and Embodied AI</h3>
