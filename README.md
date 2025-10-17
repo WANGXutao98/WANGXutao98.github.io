@@ -7,9 +7,9 @@
 <style>
 /* 电脑端：固定右上角 */
 #corner-photo {
-  position: fixed;
+  position: absolute;
   top: 20px;
-  right: 120px;
+  right: 180px;
   z-index: 999;
 }
 #corner-photo img {
@@ -24,7 +24,7 @@
     position: relative;   /* 回到文档流 */
     top: auto;
     right: auto;
-    text-align: right;   /* 右 */
+    text-align: center;   /* 中 */
     margin: 0 auto 20px;  /* 与下方内容留点间距 */
   }
   #corner-photo img {
