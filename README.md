@@ -1,3 +1,9 @@
+<!-- 右上角照片 -->
+<div style="position:fixed; top:20px; right:20px; z-index:999;">
+  <img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/main/avatar.jpg"
+       alt="photo" style="max-width:180px; height:auto; box-shadow:0 2px 6px rgba(0,0,0,.15);">
+</div>
+
 <img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/main/profile.jpg"
      width="64" height="64" style="border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,.15);">
 
