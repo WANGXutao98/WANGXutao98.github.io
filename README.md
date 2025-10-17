@@ -34,7 +34,7 @@
 </style>
 
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
-<h3 align="center">An AI Researcher passionate about AI Agent，Generative AI and Embodied AI</h3>
+<h3 align="center">An AI Researcher passionate about AI Agent, Multimodal AI and Generative models</h3>
 
 - 📫 How to reach me -  **wangxutao98@qq.com**
 - 📄 Know about my experiences -  [**Resume**](https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/CV_WANG_Xutao.pdf) 
