@@ -1,14 +1,12 @@
 <!-- 右上角照片 -->
-<div style="position:fixed; top:20px; right:20px; z-index:999;">
+<div style="position:fixed; top:20px; right:60px; z-index:999;">
   <img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/main/avatar.jpg"
        alt="photo" style="max-width:180px; height:auto; box-shadow:0 2px 6px rgba(0,0,0,.15);">
 </div>
 
-<img src="https://raw.githubusercontent.com/WANGXutao98/WANGXutao98.github.io/main/profile.jpg"
-     width="64" height="64" style="border-radius:50%;box-shadow:0 1px 3px rgba(0,0,0,.15);">
 
 <h1 align="center">Hi 👋, I'm David Wang Xutao</h1>
-<h3 align="center">An AI Researcher passionate about LLM, AI Agent and Generative AI</h3>
+<h3 align="center">An AI Researcher passionate about AI Agent，Generative AI and Embodied AI</h3>
 
 - 📫 How to reach me -  **wangxutao98@qq.com**
 - 📄 Know about my experiences -  [**Resume**](https://github.com/WANGXutao98/WANGXutao98.github.io/blob/main/CV_WANG_Xutao.pdf) 
@@ -22,7 +20,7 @@
 | Category           | Skills                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Programming**    | `Python`, `Golang`, `C++`                                                                                                                                                                                                                                                                                                                                                |
-| **LLM & ML**       | `PyTorch`, `vLLM`, `TensorRT-LLM`, `ONNX`, `RAG`, `AI Agent`                                                                                                                                                                                                                                                                                              |
+| **LLM & ML**       | `PyTorch`, `vLLM`, `TensorRT-LLM`, `ONNX`, `RAG`                                                                                                                                                                                                                                                                                              |
 | **Data & Ops**     | `MySQL`, `MongoDB`, `Hadoop`, `Docker`, `Linux`                                                                                                                                                                                                                                                                                                                          |
 | **Other Tools**  | `Azure`, `Sketch`                                                                                                                                                                                                                                                                                                                       |
 
